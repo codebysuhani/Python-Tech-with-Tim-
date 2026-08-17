@@ -9,6 +9,6 @@ print(text[0:5:2])
 
 print(fruits[2])
 
-fruits[2:2] = 'grapes'
+fruits[2:2] = ['grapes']
 
 print(fruits)
