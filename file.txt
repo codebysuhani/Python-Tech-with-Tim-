@@ -1,5 +1,5 @@
 python
 is 
-an 
+am
 easy
 language
