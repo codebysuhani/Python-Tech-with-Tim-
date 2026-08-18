@@ -1,4 +1,4 @@
-# .find
+# .find()
 
 string = "hello"
 print(string.find("l"))
